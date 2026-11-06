@@ -1,0 +1,5 @@
+The files in MiniARC/ are tasks from the Mini-ARC dataset
+(Kim, Phunyaphibarn, Ahn, Kim. "Playgrounds for Abstraction and Reasoning",
+NeurIPS 2022 Workshop on Neuro Causal and Symbolic AI), redistributed here
+unchanged. Source: https://github.com/KSB21ST/MINI-ARC (Apache License 2.0;
+see the original repository for the full license text).
